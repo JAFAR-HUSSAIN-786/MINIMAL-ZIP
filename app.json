@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Jafar Billionaire GPT",
+    "slug": "jafar-billionaire-gpt-full",
+    "version": "1.0.0",
+    "platforms": [
+      "android"
+    ],
+    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.jafar.billionairegpt"
+    }
+  }
+}
